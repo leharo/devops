@@ -7,7 +7,12 @@
 ## create a project scaffold
 * Create dev environment that is cloud-based:
 ### Colab Notebook
-### Github Codespaces,
+### Github Codespaces
+Build out python project scaffold:
+*Makefile
+
+
+
 ### AWS CloudShell
 ### AWS Cloud9
  
